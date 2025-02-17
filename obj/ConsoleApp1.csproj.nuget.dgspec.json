@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aavashp/Coding/testapplications/ConsoleApp1/ConsoleApp1.csproj": {}
+    "/home/aavashp/Coding/testapplications/classwork/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/home/aavashp/Coding/testapplications/ConsoleApp1/ConsoleApp1.csproj": {
+    "/home/aavashp/Coding/testapplications/classwork/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aavashp/Coding/testapplications/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "/home/aavashp/Coding/testapplications/classwork/ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/home/aavashp/Coding/testapplications/ConsoleApp1/ConsoleApp1.csproj",
+        "projectPath": "/home/aavashp/Coding/testapplications/classwork/ConsoleApp1.csproj",
         "packagesPath": "/home/aavashp/.nuget/packages/",
-        "outputPath": "/home/aavashp/Coding/testapplications/ConsoleApp1/obj/",
+        "outputPath": "/home/aavashp/Coding/testapplications/classwork/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aavashp/.nuget/NuGet/NuGet.Config"

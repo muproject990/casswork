@@ -1,6 +1,4 @@
-﻿// Coding Task:
-// Objective: Manage a list of people and filter by age.
-
+﻿
 
 class Person
 {

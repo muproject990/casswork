@@ -1,22 +1,22 @@
 Coding Task:
 Objective: Manage a list of people and filter by age.
 1. Define a Person Class:
-o Create a class named Person with two properties:
- Name (string): Stores the name of the person.
- Age (int): Stores the age of the person.
-o Add a method named Greet() that prints a greeting message
-(e.g., "Hello, my name is [Name]!").
+- Create a class named Person with two properties:
+- Name (string): Stores the name of the person.
+- Age (int): Stores the age of the person.
+- Add a method named Greet() that prints a greeting message
+-- (e.g., "Hello, my name is [Name]!").
 
 2. Create a List of People:
-o Instantiate multiple Person objects with different names and ages.
-o Store these objects in a list (e.g., List<Person>).
-3. Filter People by Age Using LINQ:
-o Use LINQ to filter and display people whose age is above 20.
-o Print the filtered list to the console.
+- Instantiate multiple Person objects with different names and ages.
+-  Store these objects in a list (e.g., List<Person>).
+-  Filter People by Age Using LINQ:
+3.  Use LINQ to filter and display people whose age is above 20.
+  - rint the filtered list to the console.
 4. Allow User Interaction:
-o Provide an option for the user to select a person from the list and greet them using
+- Provide an option for the user to select a person from the list and greet them using
 the Greet() method.
-o Ensure the program continues running until the user explicitly chooses to exit.
+  --- Ensure the program continues running until the user explicitly chooses to exit.
 5. Program Flow:
 o Display a menu with options:
 1. Filter and display people above 20.
